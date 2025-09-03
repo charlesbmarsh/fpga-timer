@@ -34,4 +34,4 @@ If you would like to use this project for yourself, you'll need the following:
 4.  Synthesize and implement the design.
 5.  Program the bitstream to your Basys3 board.
 
-### *Parts of this project's HDL code was taken from David J. Marion aka FPGA Dude, notably the button debouncing and 7-seg driver
+*Parts of this project's HDL code was taken from David J. Marion aka FPGA Dude, notably the button debouncing and 7-seg driver
