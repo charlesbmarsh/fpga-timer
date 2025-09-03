@@ -1,6 +1,6 @@
 # FPGA Countdown Timer
 
-This project implements a fully functional countdown timer on a **Basys3 FPGA** board using **Verilog**. The system showcases a complete digital design, including button-controlled operations, a 7-segment display, and LED indicators, all of which are built-in to the Basys3.
+This project implements a fully functional countdown timer on a Basys3 FPGA board using Verilog. The system showcases a complete digital design, including button-controlled operations, a 7-segment display, and LED indicators, all of which are built-in to the Basys3.
 
 ### Project Goals
 
